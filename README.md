@@ -87,4 +87,6 @@ Licensing terms may be updated following the completion of the manuscript review
 
 This work was supported in part by the U.S. National Science Foundation (NSF) Research Initiation Award under Grant No. 2500079 and NSF TRAILS under Award No. 2229885.
 
+The authors thank Synopsys and Ravindra Aneja for providing VC Formal tool support for the formal verification of the proposed AXI4 security firewall. 
+
 **AI Assistance Statement:** During the preparation of this work, the authors used ChatGPT (OpenAI) to assist with language polishing, technical phrasing, and improving the clarity of exposition, and Codex (OpenAI) to assist with RTL and assertion development and refinement. All AI-assisted content and code were reviewed, verified, and edited by the authors as needed. The authors take full responsibility for the content and technical results presented in this work.
