@@ -68,16 +68,20 @@ The manuscript reports the following results:
 | Additional saved-reset constraint | 1 |
 | Total formal constraints | **61** |
 
-
 ## 5. Manuscript and citation
 
 **Associated manuscript:** *Design and Formal Verification of an AXI4 Security Firewall for Automotive Central Gateways.*
 
-The manuscript contains the architectural specification, verification methodology and assumptions, formal results, FPGA/ASIC evaluation, and the full assertion, assumption, and cover-property catalogs. Bibliographic citation information will be added when available. 
+The manuscript is currently **under review at IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)**. It presents the proposed architecture, formal verification methodology and assumptions, verification results, FPGA and ASIC implementation evaluations, and comprehensive assertion, assumption, and cover-property catalogs. Bibliographic information, including publication details and DOI, will be updated accordingly later. 
+
 
 ## 6. License and research use
 
-No license has been selected in this repository at the time this README was prepared. Public access to source code is not, by itself, an open-source license or a grant of reuse rights. A license and any third-party or institutional release approvals should be settled before inviting redistribution or external contributions.
+The associated manuscript is currently under review at IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD).
+
+During the review process, the RTL implementation, formal verification source code, and supplementary materials are made available for academic reference, transparency, and research reproducibility. No open-source license has been assigned to this repository at this stage. All rights are reserved by the respective copyright holders. Public availability does not constitute permission to redistribute, modify, or commercially use the materials without prior authorization.
+
+Licensing terms may be updated following the completion of the manuscript review and publication process.
 
 ## 8. Acknowledgments
 
