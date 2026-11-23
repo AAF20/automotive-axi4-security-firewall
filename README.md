@@ -68,6 +68,11 @@ The manuscript reports the following results:
 | Additional saved-reset constraint | 1 |
 | Total formal constraints | **61** |
 
+## ## Hardware Implementation
+
+<img width="609" height="453" alt="Screenshot 2026-11-23 at 12 35 41 PM" src="https://github.com/user-attachments/assets/d537710e-0c3a-4011-9239-bd61b5363af4" />
+
+
 ## 5. Manuscript and citation
 
 **Associated manuscript:** *Design and Formal Verification of an AXI4 Security Firewall for Automotive Central Gateways.*
